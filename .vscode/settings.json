@@ -1,0 +1,13 @@
+{
+    "chat.mcp.discovery.enabled": {
+        "claude-desktop": true,
+        "cursor-workspace": true,
+        "windsurf": true,
+        "cursor-global": true
+    },
+    "chat.mcp.gallery.enabled": true,
+    "chat.mcp.assisted.nuget.enabled": true,
+    "chat.planAgent.defaultModel": "Claude Haiku 4.5 (claude-code)",
+    "chat.requestQueuing.defaultAction": "queue",
+    "chat.agent.sandbox.enabled": "on"
+}
